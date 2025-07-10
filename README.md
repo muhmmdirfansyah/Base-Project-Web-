@@ -1,2 +1,6 @@
-# Base-Project-Web-
-A PHP-based Monas website with authentication, article management, facilities, and review system. Built with a modular structure including separate folders for admin, auth, assets, and includes.
+# Monas Base Web
+
+A PHP-based website for Monas with core features like user authentication, article and facility management, and a simple review system. Built with clean modular folder structure for easy scalability and maintenance.
+
+## 📁 Project Structure
+
